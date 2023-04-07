@@ -2,5 +2,5 @@
 - HTML
 - CSS
 
-### Objetivos
+### Objetivo
 - Aprimorar o conhecimento HTML e CSS.
