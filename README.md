@@ -1,6 +1,48 @@
-### Tecnologias
+# 🎨 ProjetoAwax
+
+**Estudo sobre Desenvolvimento Web com foco em HTML e CSS.**
+
+---
+
+## 📷 Screenshot do Projeto
+
+![Screenshot do projeto](./screen.png)
+
+---
+
+## 🧑‍💻 Desenvolvedor(a)
+
+**Gabriele Soares Quevedo**
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
 - HTML
 - CSS
 
-### Objetivo
-- Aprimorar o conhecimento HTML e CSS.
+---
+
+## 💻 Ambiente de Desenvolvimento
+
+- VS Code
+
+---
+
+## 📁 Bastidores
+
+- Aprimoramento dos conhecimentos em **HTML** e **CSS**.
+- Desenvolvimento de layout responsivo e semântico.
+- Aplicação de boas práticas de estruturação de código.
+
+---
+
+## 🎯 Objetivo
+
+- Criar um **site estático** com foco em design e usabilidade, aplicando conceitos de desenvolvimento web front-end.
+
+---
+
+## 🔗 Link de Acesso
+
+[https://gsquevedo.github.io/ProjetoAwax/](https://gsquevedo.github.io/ProjetoAwax/)
