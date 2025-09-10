@@ -1,12 +1,6 @@
 # 🎨 ProjetoAwax
 
-**Estudo sobre Desenvolvimento Web com foco em HTML e CSS.**
-
----
-
-## 📷 Screenshot do Projeto
-
-![Screenshot do projeto](./screen.png)
+Estudo sobre Desenvolvimento Web com foco em HTML e CSS.
 
 ---
 
